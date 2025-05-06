@@ -7,7 +7,11 @@
   <a href="https://www.cybermaxx.com/">
     <img src="../images/cybermaxx_logo.png" width="500">
   </a>
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&center=true&width=435&lines=CyberMaxx%3A+Your+Modern+MDR+Partner)](https://git.io/typing-svg)
+ 
 </div>
+
 
 
 <details open> 
