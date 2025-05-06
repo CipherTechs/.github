@@ -15,7 +15,6 @@
     <p align="left">
     <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=mssprinkler&theme=onedark"/>
     <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/>
-    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/>
   </a>
    </p>
 </details>
