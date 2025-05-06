@@ -9,10 +9,21 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&pause=1000&color=10BEF7&center=true&width=435&lines=CyberMaxx%3A+Your+Modern+MDR+Partner" alt="Typing SVG" />
+
+<details open> 
+  <summary><h2>Projects Sponsored By CyberMaxx</h2></summary>
+    <p align="left">
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=mssprinkler&theme=onedark"/>
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/>
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/>
   </a>
-</p>
+   </p>
+</details>
 
-
+<details open>
+  <summary><h2>CyberMaxx Repos</h2></summary>
+ <p align="left">
+   <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=ciphertechs&repo=ransomware-research&theme=onedark"/>
+    </a>
+   </p>
+</details>
