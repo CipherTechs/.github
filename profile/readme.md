@@ -23,7 +23,7 @@
 <details open>
   <summary><h2>CyberMaxx Repos</h2></summary>
  <p align="left">
-   <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=ciphertechs&repo=ransomware-research&theme=onedark"/>
+   <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=cybermaxxofficial&repo=ransomware-research&theme=onedark"/>
     </a>
    </p>
 </details>
