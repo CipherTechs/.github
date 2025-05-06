@@ -21,9 +21,12 @@
      <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=mssprinkler&theme=onedark"/></a>
      <a href="https://github.com/theresafewconors/cloudsweep">
     <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/></a>
+     <a href="https://github.com/j0shnan/S1QueryConverter">
+     <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=j0shnan&repo=S1QueryConverter&theme=onedark"/></a>
   </a>
    </p>
 </details>
+
 
 <details open>
   <summary><h2>CyberMaxx Repos</h2></summary>
