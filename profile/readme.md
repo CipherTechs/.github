@@ -13,8 +13,10 @@
 <details open> 
   <summary><h2>Projects Sponsored By CyberMaxx</h2></summary>
     <p align="left">
-    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=mssprinkler&theme=onedark"/>
-    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/>
+     <a href="https://github.com/theresafewconors/mssprinkler">
+     <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=mssprinkler&theme=onedark"/></a>
+     <a href="https://github.com/theresafewconors/cloudsweep">
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=TheresAFewConors&repo=cloudsweep&theme=onedark"/></a>
   </a>
    </p>
 </details>
