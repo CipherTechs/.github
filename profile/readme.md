@@ -1,8 +1,10 @@
  <p align="center">
-  <a href="https://www.linkedin.com/company/cybermaxx/posts/?feedView=all"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+   <a href="https://www.cybermaxx.com"><img width="32px" alt="website" title="Website" src="../images/web.png"/></a>
    &#8287;&#8287;&#8287;
-   <a href="https://www.youtube.com/channel/UCWIla0Ree5BZfGmwOZ2VO5Q"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/>
-
+   <a href="https://www.linkedin.com/company/cybermaxx/posts/?feedView=all"><img width="32px" alt="LinkedIn" title="LinkedIn" src="../images/linkedin.png"/></a>
+   &#8287;&#8287;&#8287;
+   <a href="https://www.youtube.com/channel/UCWIla0Ree5BZfGmwOZ2VO5Q"><img width="32px" alt="Youtube" title="Youtube" src="../images/youtube.png"/></a>
+  <!-- social media icons created by Freepik, web icon by Ilham Fitrotul Hayat-->
 <div align="center">
   <a href="https://www.cybermaxx.com/">
     <img src="../images/cybermaxx_logo.png" width="500">
